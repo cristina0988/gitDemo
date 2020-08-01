@@ -4,5 +4,7 @@ public class GitPractice2 {
 
 // add 3 empty lines
 
+        // add 1 print out message
+        System.out.println("Repeat everything I've learned so far");
     }
 }
