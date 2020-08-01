@@ -14,6 +14,7 @@ public class HappyB20 {
         // remove my name and add your sister's name
 
         System.out.println("My sister's name is Catalina");
+        System.out.println("Today's class is the best class ever");
     }
 
 
