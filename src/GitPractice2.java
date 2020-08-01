@@ -11,6 +11,5 @@ public class GitPractice2 {
         System.out.println("Practice everyday");
 
 
-
     }
 }
