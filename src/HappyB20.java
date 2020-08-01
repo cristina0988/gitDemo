@@ -10,8 +10,10 @@ public class HappyB20 {
         // a brand new line is added
 
         // print your name
-        System.out.println(" My name is Cristina");
 
+        // remove my name and add your sister's name
+
+        System.out.println("My sister's name is Catalina");
     }
 
 
