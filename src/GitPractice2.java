@@ -2,6 +2,7 @@ public class GitPractice2 {
     public static void main(String[] args) {
         System.out.println("Practice more");
 
+// add 3 empty lines
 
     }
 }
